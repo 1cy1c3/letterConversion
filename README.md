@@ -6,6 +6,7 @@ Converts a form with inputs to a pdf business letter.
 
 ## Prerequisites
 + Apache Tomcat
++ JDK
 + JRE
 + Spring MVC
 
